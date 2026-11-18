@@ -1,0 +1,24 @@
+# Raw microdata files (large external downloads from INEP)
+_tmp_raw/
+data/raw/
+*.rar
+*.zip
+*.txt
+*.dta
+
+# Python & Jupyter artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment & IDE
+.venv/
+venv/
+env/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
